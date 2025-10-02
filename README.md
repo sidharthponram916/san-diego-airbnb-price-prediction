@@ -1,5 +1,5 @@
 # Airbnb Price Prediction
-Note: Due to the lack of data in the dataset, it was difficult for me to push the accuracy of my model beyond the 55-60% range. 
+This project analyzes and predicts Airbnb rental prices in San Diego using real-world data. The goal was to build a model that estimates listing prices based on features like location, property type, and availability. 
 
 # Skills Used 
 - Used Pandas to clean the dataset and preparing it for model training. 
